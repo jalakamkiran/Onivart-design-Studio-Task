@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883252397881",
+    "project_id": "omni-sample-508f7",
+    "storage_bucket": "omni-sample-508f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883252397881:android:957a5f7549d62beadc4ae8",
+        "android_client_info": {
+          "package_name": "com.codingwithdhrumil.flutterhivesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883252397881-c1i4jq9hbtl1hicv18ful22rijoglt55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcakA7kYO8sDSduUqUftzP3NG0UzTJi2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883252397881-c1i4jq9hbtl1hicv18ful22rijoglt55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
